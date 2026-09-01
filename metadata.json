@@ -1,0 +1,6 @@
+{
+  "name": "LedgerFlow",
+  "description": "Open-source double-entry accounting and financial transaction ledger engine with REST API, idempotency, audit trails, and financial reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
